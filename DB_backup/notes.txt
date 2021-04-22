@@ -1,0 +1,2 @@
+admin/admin - backend login
+jaydev/pass - front login
